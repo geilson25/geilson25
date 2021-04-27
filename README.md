@@ -24,8 +24,7 @@
 
 <h3 align="left">Siga-me nas redes sociais:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/geilsonfidelis/" target="blank"><img align="center" src="https://w7.pngwing.com/pngs/554/978/png-transparent-white-in-text-on-black-background-black-and-white-point-angle-pattern-linkedin-texture-white-text-thumbnail.png" alt="www.linkedin.com/in/geilsonfidelis/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/geilsonfidelis/" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTohTRDR4xjkCDIrvoWUaFxAEOiTkshCId87g&usqp=CAU" alt="www.linkedin.com/in/geilsonfidelis/" height="30" width="40" /></a>
 
-<a href="https://instagram.com/https://www.instagram.com/geilsonfidelis/" target="blank"><img align="center" src="https://www.seekpng.com/png/detail/381-3811610_insta-logo-instagram.png" alt="https://www.instagram.com/geilsonfidelis/" height="30" width="40" /></a>
-</p>![gf](https://user-images.githubusercontent.com/62431727/116183651-a5462200-a6f4-11eb-9291-bc2905d0a2ee.gif)
-![gf](https://user-images.githubusercontent.com/62431727/116183666-ad9e5d00-a6f4-11eb-96dd-7f93d8bbeb40.gif)
+<a href="https://instagram.com/https://www.instagram.com/geilsonfidelis/" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/9ASiwrVdio0I2i2Sd1UzRczyL81piJoKfKKBoC8PUm2q6565NMQwUJCuNGwH-enhm00" alt="https://www.instagram.com/geilsonfidelis/" height="30" width="40" /></a>
+</p>
