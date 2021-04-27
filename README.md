@@ -19,7 +19,7 @@
 
 <h2 align="left">UNIASSELVI</h2>
 
-<h2 align="left">Terceiro Período (2021/1)</h2>
+### align="left" Terceiro Período (2021/1)
 - [ ] Mapeamento de Processos de Negócios e Ativos da Informação;
 - [ ] Criptografia e Segurança;
 - [ ] Análise e Vulnerabilidade de Riscos;
