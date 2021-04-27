@@ -15,6 +15,31 @@
 - ⚡ "SPES MESSIS IN SEMINE" **"A esperança da colheita reside na semente."**
 
 
+<h3 align="left">Graduação: Segurança da Informação</h3>
+
+<h2 align="left">UNIASSELVI</h2>
+
+<h2 align="left">Terceiro Período (2021/1)</h2>
+- [ ] Mapeamento de Processos de Negócios e Ativos da Informação;
+- [ ] Criptografia e Segurança;
+- [ ] Análise e Vulnerabilidade de Riscos;
+- [x] Política de Segurança e Inventário de Ativos de Informação; 
+- [x] Conscientização em Segurança da informação .
+
+<h2 align="left">Segundo Período (2020/2)</h2>
+- [x] Engenharia e Projeto de Software;
+- [x] Princípio de Banco de Dados;
+- [x] Sistemas e Aplicações Distribuídas;
+- [x] Fundamentos de Redes de Computadores; 
+- [x] Segurança Aplicada no Desenvolvimento de Seftware.
+
+<h2 align="left">Primeiro Período (2020/1)</h2>
+- [x] Segurança em tecnologia da Informação;
+- [x] Arquitetura de Computadores;
+- [x] Estatística; 
+- [x] Lógica e técnicas de Programação.
+ 
+
 <h3 align="left">Languages and Tools:</h3>
  <p align="center">
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
