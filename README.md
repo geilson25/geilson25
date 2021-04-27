@@ -23,7 +23,7 @@
 
 
 <h3 align="left">Siga-me nas redes sociais:</h3>
-<p align="center">
+<p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/geilsonfidelis/" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTohTRDR4xjkCDIrvoWUaFxAEOiTkshCId87g&usqp=CAU" alt="www.linkedin.com/in/geilsonfidelis/" height="30" width="40" /></a>
 
 <a href="https://instagram.com/https://www.instagram.com/geilsonfidelis/" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/9ASiwrVdio0I2i2Sd1UzRczyL81piJoKfKKBoC8PUm2q6565NMQwUJCuNGwH-enhm00" alt="https://www.instagram.com/geilsonfidelis/" height="30" width="40" /></a>
