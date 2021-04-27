@@ -14,8 +14,8 @@
 
 - ⚡ "SPES MESSIS IN SEMINE" **"A esperança da colheita reside na semente."**
 
-
-<h3 align="left"> Graduação: Segurança da Informação UNIASSELVI</h3>
+<h2 align="left"> Graduação: Segurança da Informação</h2>
+<h3 align="left">UNIASSELVI</h3>
 
 ### Terceiro Período (2021/1)
 - [ ] Mapeamento de Processos de Negócios e Ativos da Informação;
