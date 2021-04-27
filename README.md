@@ -2,14 +2,7 @@
  <img src="gf.gif" />
 </h1>
 
-<h2 align="center">
-	<audio autoplay="autoplay" controls="controls">
-		<source src="Epistrophy.mp3" type="audio/mp3" />
-		seu navegador não suporta HTML5
-	</audio>
-</h2>
-
-<h3 align="center">Profissional em Transição de Carreira - Graduando em Segurança da Informação, 36 anos, marido, pai, leitor compulsivo e, músico entusiasta.</h3>
+<h3 align="center">Profissional em Transição de Carreira - Graduando em Segurança da Informação (Profissional de Infosec em Formação), 36 anos, marido, pai, leitor compulsivo e, músico entusiasta.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geilson25&label=Profile%20views&color=0e75b6&style=flat" alt="geilson25" /> </p>
 
