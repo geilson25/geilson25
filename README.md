@@ -61,7 +61,7 @@
 
 <h2 align="left">Siga-me nas redes sociais:</h2>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/geilsonfidelis/" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTohTRDR4xjkCDIrvoWUaFxAEOiTkshCId87g&usqp=CAU" alt="www.linkedin.com/in/geilsonfidelis/" height="80" width="110" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/geilsonfidelis/" target="blank"><img align="center" src="https://img1.gratispng.com/20180320/dwq/kisspng-social-media-linkedin-facebook-professional-networ-linkedin-icon-hd-5ab17653d9a1e2.7525658215215796038914.jpg" alt="www.linkedin.com/in/geilsonfidelis/" height="90" width="90" /></a>
 
-<a href="https://instagram.com/https://www.instagram.com/geilsonfidelis/" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/9ASiwrVdio0I2i2Sd1UzRczyL81piJoKfKKBoC8PUm2q6565NMQwUJCuNGwH-enhm00" alt="https://www.instagram.com/geilsonfidelis/" height="60" width="120" /></a>
+<a href="https://instagram.com/https://www.instagram.com/geilsonfidelis/" target="blank"><img align="center" src="https://img1.gratispng.com/20180730/vgo/kisspng-logo-clip-art-icone-instagram-facebook-5b5ed348052465.2794363915329411280211.jpg" alt="https://www.instagram.com/geilsonfidelis/" height="90" width="90" /></a>
 </p>
