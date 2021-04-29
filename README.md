@@ -29,13 +29,13 @@
 - [x] Princípio de Banco de Dados;
 - [x] Sistemas e Aplicações Distribuídas;
 - [x] Fundamentos de Redes de Computadores; 
-- [x] Segurança Aplicada no Desenvolvimento de Seftware.
+- [x] Segurança Aplicada no Desenvolvimento de Software.
 
 ### Primeiro Período (2020/1)
-- [x] Segurança em tecnologia da Informação;
+- [x] Segurança em Tecnologia da Informação;
 - [x] Arquitetura de Computadores;
 - [x] Estatística; 
-- [x] Lógica e técnicas de Programação.
+- [x] Lógica e Técnicas de Programação.
  
 
 <h2 align="left">Languages and Tools:</h2>
@@ -54,10 +54,14 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=geilson25&show_icons=true&locale=en&layout=compact" alt="geilson25" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=geilson25&show_icons=true&locale=en" alt="geilson25" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=geilson25&" alt="geilson25" /></p>
+
 
 <h2 align="left">Siga-me nas redes sociais:</h2>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/geilsonfidelis/" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTohTRDR4xjkCDIrvoWUaFxAEOiTkshCId87g&usqp=CAU" alt="www.linkedin.com/in/geilsonfidelis/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/geilsonfidelis/" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTohTRDR4xjkCDIrvoWUaFxAEOiTkshCId87g&usqp=CAU" alt="www.linkedin.com/in/geilsonfidelis/" height="80" width="110" /></a>
 
-<a href="https://instagram.com/https://www.instagram.com/geilsonfidelis/" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/9ASiwrVdio0I2i2Sd1UzRczyL81piJoKfKKBoC8PUm2q6565NMQwUJCuNGwH-enhm00" alt="https://www.instagram.com/geilsonfidelis/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/geilsonfidelis/" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/9ASiwrVdio0I2i2Sd1UzRczyL81piJoKfKKBoC8PUm2q6565NMQwUJCuNGwH-enhm00" alt="https://www.instagram.com/geilsonfidelis/" height="60" width="120" /></a>
 </p>
