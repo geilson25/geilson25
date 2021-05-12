@@ -63,5 +63,5 @@
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/geilsonfidelis/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png" height="60" width="60" /></a>
  
-<a href="https://www.instagram.com/geilsonfidelis/" target="blank"><img align="center" src="https://img1.gratispng.com/20180730/vgo/kisspng-logo-clip-art-icone-instagram-facebook-5b5ed348052465.2794363915329411280211.jpg" height="60" width="60" /></a>
+<a href="https://www.instagram.com/geilsonfidelis/" target="blank"><img align="center" src="https://i1.wp.com/www.multarte.com.br/wp-content/uploads/2019/03/logo-instagram-png-sem-fundo8.png?resize=696%2C464&ssl=1" height="60" width="60" /></a>
 </p>
