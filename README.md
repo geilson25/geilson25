@@ -63,5 +63,5 @@
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/geilsonfidelis/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png" height="60" width="60" /></a>
  
-<a href="https://instagram.com/https://www.instagram.com/geilsonfidelis/" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/733/733558.svg?token=exp=1619842751~hmac=0cca4294a452b005b66dd9f3d139749e" alt="https://www.instagram.com/geilsonfidelis/" height="60" width="60" /></a>
+<a href="https://img1.pnghut.com/t/9/25/24/JKSu4fHfKz/tag-photography-magenta-sticker-grayscale.jpg" alt="https://www.instagram.com/geilsonfidelis/" height="60" width="60" /></a>
 </p>
