@@ -2,11 +2,11 @@
  <img src="gf.gif" />
 </h1>
 
-<h3 align="center">Profissional em Transição de Carreira - Graduando em Segurança da Informação (Profissional de Infosec em Formação), 36 anos, marido, pai, leitor compulsivo e, músico entusiasta.</h3>
+<h3 align="center">Profissional em Transição de Carreira - Graduando em Segurança da Informação, 36 anos, marido, pai, leitor compulsivo e, músico entusiasta.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geilson25&label=Profile%20views&color=0e75b6&style=flat" alt="geilson25" /> </p>
 
-- 🔭 Recentemente, através de contrato temporário de trabalho, atuei como Project Manager, trabalhando com equipes em nível global (Brasil, Portugal e Polônia), mesclava a aplicabilidade da Metodologia Ágil somado à outros frameworks de gestão frente às necessidades internas. Cuidava do on-boarding dos clientes, estando lado a lado com estes, para eliminar as intempéries, garantindo assim, entregas com sucesso. Empresa: [Blaze Infosec](https://www.blazeinfosec.com/)
+- 🔭 Recentemente, através de contrato temporário de trabalho, atuei como Project Manager, trabalhando com equipes em nível global (Brasil, Portugal e Polônia), mesclava a aplicabilidade da Metodologia Ágil somado à outros frameworks de gestão frente às necessidades internas. Cuidava do on-boarding dos clientes, estando lado a lado com estes, para eliminar as intempéries, garantindo assim, entregas com sucesso.
 
 - 💬 Buscando oportunidades: **Python with Django**
 
