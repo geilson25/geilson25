@@ -63,5 +63,5 @@
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/geilsonfidelis/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png" height="60" width="60" /></a>
  
-<a href="https://www.instagram.com/geilsonfidelis/" target="blank"><img align="center" src="https://lh3.googleusercontent.com/proxy/m4NOOqFYVJeeV1ke0US_VP-D-QPqyoJ8LbAO32iLbMr1ISTw4a6yM5mPNhdVCSgGJ_7Vdar5sWpj4r455Sjm9aDyPp_rc1vo6xJjcw4w6YUtcxso3rexsrSEKS0lvDelzvzEh4dLfTAMNcyoO4dNcLFZezyaBGlbXe-FwKblt1A" height="60" width="60" /></a>
+<a href="https://www.instagram.com/geilsonfidelis/" target="blank"><img align="center" src="https://www.instagram.com/static/images/ico/apple-touch-icon-76x76-precomposed.png/666282be8229.png" height="60" width="60" /></a>
 </p>
