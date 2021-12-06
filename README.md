@@ -2,20 +2,29 @@
  <img src="gf.gif" />
 </h1>
 
-<h3 align="center">Profissional em Transição de Carreira - Graduando em Segurança da Informação, 36 anos, marido, pai, leitor compulsivo e, músico entusiasta.</h3>
+<h3 align="center">Profissional em Transição de Carreira - Graduando em Segurança da Informação, 37 anos, marido, pai, leitor compulsivo e, músico entusiasta.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geilson25&label=Profile%20views&color=0e75b6&style=flat" alt="geilson25" /> </p>
 
-- 🔭 Recentemente, através de contrato temporário de trabalho, atuei como Project Manager, trabalhando com equipes em nível global (Brasil, Portugal e Polônia), mesclava a aplicabilidade da Metodologia Ágil somado à outros frameworks de gestão frente às necessidades internas. Cuidava do on-boarding dos clientes, estando lado a lado com estes, para eliminar as intempéries, garantindo assim, entregas com sucesso.
-
-- 💬 Buscando oportunidades: **Python with Django**
+- 💬 Buscando oportunidades de estestágio: Em Desenvolvimento Web e/ou Pentest.
 
 - 📫 Email para contato: **geilsonfidelis@gmail.com**
 
 - ⚡ "SPES MESSIS IN SEMINE" **"A esperança da colheita reside na semente."**
 
+
 <h2 align="left"> Graduação: Segurança da Informação</h2>
 <h3 align="left">UNIASSELVI</h3>
+
+
+### Quarto Período (2021/2)
+- [x] Segurança em Dispositivos Móveis e Ambiente Web;
+- [x] Segurança em Banco de Dados;
+- [x] Segurança em Redes de Computadores;
+- [x] Segurança Aplicada no Desenvolvimento de Software; 
+- [x] Gerenciamento de Projeto de Governança de TI;
+- [x] Seminário Interdisciplinar: Projeto de Política de Segurança;
+- [x] Estudo Transversal.
 
 ### Terceiro Período (2021/1)
 - [x] Mapeamento de Processos de Negócios e Ativos da Informação;
@@ -36,6 +45,10 @@
 - [x] Arquitetura de Computadores;
 - [x] Estatística; 
 - [x] Lógica e Técnicas de Programação.
+
+<h2 align="left"> Certificações:</h2>
+<h3 align="left">Scrum Foundation Professional Certificate - CERTIPROF</h3>
+<h3 align="left">White Bilte Lean Six Sigma - Grupo Voitto</h3>
  
 
 <h2 align="left">Languages and Tools:</h2>
