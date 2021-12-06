@@ -48,7 +48,7 @@
 
 <h2 align="left"> Certificações:</h2>
 <h3 align="left">Scrum Foundation Professional Certificate - CERTIPROF</h3>
-<h3 align="left">White Bilte Lean Six Sigma - Grupo Voitto</h3>
+<h3 align="left">White Belt Lean Six Sigma - Grupo Voitto</h3>
  
 
 <h2 align="left">Languages and Tools:</h2>
