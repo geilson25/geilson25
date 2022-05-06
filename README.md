@@ -17,13 +17,21 @@
 <h3 align="left">UNIASSELVI</h3>
 
 
+### Quinto Período (2022/1)
+- [ ] Seminário Interdisciplinar: Projeto II - Segurança da Informação na Indústria 4.0;
+- [ ] Estudo Transversal I;
+- [ ] Certificação Digital; 
+- [ ] Tópicos Especiais;
+- [x] Perspectivas Profissionais;
+- [x] Computação Forense e Testes de Invasão.
+
 ### Quarto Período (2021/2)
 - [x] Segurança em Dispositivos Móveis e Ambiente Web;
 - [x] Segurança em Banco de Dados;
 - [x] Segurança em Redes de Computadores;
 - [x] Segurança Aplicada no Desenvolvimento de Software; 
 - [x] Gerenciamento de Projeto de Governança de TI;
-- [x] Seminário Interdisciplinar: Projeto de Política de Segurança;
+- [x] Seminário Interdisciplinar: Projeto I - Política de Segurança;
 - [x] Estudo Transversal.
 
 ### Terceiro Período (2021/1)
