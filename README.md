@@ -82,7 +82,8 @@
 
 <h2 align="left">Siga-me nas redes sociais:</h2>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/geilsonfidelis/" target="_blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F593841900850307567%2F&psig=AOvVaw15zzHxrww4byoHb-GBMGiN&ust=1651941047828000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCKjIsKqmy_cCFQAAAAAdAAAAABAT" height="60" width="60" /></a>
+ 
+<a href="https://linkedin.com/in/www.linkedin.com/in/geilsonfidelis/" target="_blank"><img align="center" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG22.png" height="60" width="60" /></a>
  
 <a href="https://www.instagram.com/geilsonfidelis/" target="_blank"><img align="center" src="https://www.instagram.com/static/images/ico/apple-touch-icon-76x76-precomposed.png/666282be8229.png" height="60" width="60" /></a>
 </p>
