@@ -2,7 +2,7 @@
  <img src="gf.gif" />
 </h1>
 
-<h3 align="center">Profissional em Transição de Carreira - Graduado em Segurança da Informação e +, 38 anos, marido, pai, leitor compulsivo e, músico entusiasta, auto-didata.</h3>
+<h3 align="center">Profissional em Transição de Carreira - Graduado em Segurança da Informação e +, 38 anos, marido, pai, leitor compulsivo, músico entusiasta e, auto-didata em diversas áreas do conhecimento.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geilson25&label=Profile%20views&color=0e75b6&style=flat" alt="geilson25" /> </p>
 
