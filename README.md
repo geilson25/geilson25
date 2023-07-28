@@ -13,7 +13,7 @@
 - ⚡ "SPES MESSIS IN SEMINE" **"A esperança da colheita reside na semente."**
 
 
-<h2 align="left"> Graduação: Segurança da Informação</h2>
+<h2 align="left"> - [x] Graduação: Segurança da Informação</h2>
 <h2 align="left"> Pós-Graduação: Docência no Ensino Superior</h2>
 <h3 align="left">UNIASSELVI</h3>
 
