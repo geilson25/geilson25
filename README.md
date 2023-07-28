@@ -13,51 +13,10 @@
 - ⚡ "SPES MESSIS IN SEMINE" **"A esperança da colheita reside na semente."**
 
 
-<h2 align="left"> - [x] Graduação: Segurança da Informação</h2>
-<h2 align="left"> Pós-Graduação: Docência no Ensino Superior</h2>
-<h3 align="left">UNIASSELVI</h3>
-
-
-### Quinto Período (2022/1)
-- [ ] Seminário Interdisciplinar: Projeto II - Segurança da Informação na Indústria 4.0;
-- [ ] Estudo Transversal I;
-- [ ] Certificação Digital; 
-- [ ] Tópicos Especiais;
-- [x] Perspectivas Profissionais;
-- [x] Computação Forense e Testes de Invasão.
-
-### Quarto Período (2021/2)
-- [x] Segurança em Dispositivos Móveis e Ambiente Web;
-- [x] Segurança em Banco de Dados;
-- [x] Segurança em Redes de Computadores;
-- [x] Segurança Aplicada no Desenvolvimento de Software; 
-- [x] Gerenciamento de Projeto de Governança de TI;
-- [x] Seminário Interdisciplinar: Projeto I - Política de Segurança;
-- [x] Estudo Transversal.
-
-### Terceiro Período (2021/1)
-- [x] Mapeamento de Processos de Negócios e Ativos da Informação;
-- [x] Criptografia e Segurança;
-- [x] Análise e Vulnerabilidade de Riscos;
-- [x] Política de Segurança e Inventário de Ativos de Informação; 
-- [x] Conscientização em Segurança da informação .
-
-### Segundo Período (2020/2)
-- [x] Engenharia e Projeto de Software;
-- [x] Princípio de Banco de Dados;
-- [x] Sistemas e Aplicações Distribuídas;
-- [x] Fundamentos de Redes de Computadores; 
-- [x] Segurança Aplicada no Desenvolvimento de Software.
-
-### Primeiro Período (2020/1)
-- [x] Segurança em Tecnologia da Informação;
-- [x] Arquitetura de Computadores;
-- [x] Estatística; 
-- [x] Lógica e Técnicas de Programação.
-
-<h2 align="left"> Certificações:</h2>
-<h3 align="left">Scrum Foundation Professional Certificate - CERTIPROF</h3>
-<h3 align="left">White Belt Lean Six Sigma - Grupo Voitto</h3>
+<h2 align="left"> Graduação: Segurança da Informação</h2>
+<h2 align="left"> Pós-Graduação: Docência no Ensino Superior (Lato Sensu)</h2>
+<h3 align="left">Graduando em Cibersegurança</h3>
+<h3 align="left">Pós-Graduando em Ciência de Dados (Lato Sensu)</h3>
  
 
 <h2 align="left">Languages and Tools:</h2>
