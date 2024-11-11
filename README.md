@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geilson25&label=Profile%20views&color=0e75b6&style=flat" alt="geilson25" /> </p>
 
-- 💬 Buscando oportunidades de estestágio: Em Desenvolvimento Web e/ou Pentest.
+- 💬 "Cogito ergo sum" Descartes, René.
 
 - 📫 Email para contato: **geilsonfidelis@gmail.com**
 
