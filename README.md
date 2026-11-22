@@ -2,7 +2,7 @@
  <img src="gf.gif" />
 </h1>
 
-<h3 align="center">Mestre em Engenharia de Software para Cibersegurança| Pesquisador - Graduado em Segurança da Informação - Especialização Lato Sensu em Docência no Ensino Superior</h3>
+<h3 align="center">MSc.| Pesquisador - Graduado em Segurança da Informação - Especialização Lato Sensu em Docência no Ensino Superior</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geilson25&label=Profile%20views&color=0e75b6&style=flat" alt="geilson25" /> </p>
 
@@ -13,7 +13,7 @@
 - ⚡ "SPES MESSIS IN SEMINE" **"A esperança da colheita reside na semente."**
 
 
-<h2 align="left"> Mestrando em Engenharia de Software</h2>
+<h2 align="left"> Mestre em Engenharia de Software para Ciberseguranç</h2>
 <h2 align="left"> Graduação: Segurança da Informação</h2>
 <h2 align="left"> Pós-Graduação: Docência no Ensino Superior (Lato Sensu)</h2> 
 
