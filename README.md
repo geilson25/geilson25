@@ -2,7 +2,7 @@
  <img src="gf.gif" />
 </h1>
 
-<h3 align="center">Mestrando em Engenharia de Software | Pesquisador - Graduado em Segurança da Informação - Especialização Lato Sensu em Docência no Ensino Superior</h3>
+<h3 align="center">Mestre em Engenharia de Software para Cibersegurança| Pesquisador - Graduado em Segurança da Informação - Especialização Lato Sensu em Docência no Ensino Superior</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geilson25&label=Profile%20views&color=0e75b6&style=flat" alt="geilson25" /> </p>
 
