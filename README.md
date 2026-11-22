@@ -13,7 +13,7 @@
 - ⚡ "SPES MESSIS IN SEMINE" **"A esperança da colheita reside na semente."**
 
 
-<h2 align="left"> Mestre em Engenharia de Software para Ciberseguranç</h2>
+<h2 align="left"> Mestre em Engenharia de Software para Cibersegurança</h2>
 <h2 align="left"> Graduação: Segurança da Informação</h2>
 <h2 align="left"> Pós-Graduação: Docência no Ensino Superior (Lato Sensu)</h2> 
 
